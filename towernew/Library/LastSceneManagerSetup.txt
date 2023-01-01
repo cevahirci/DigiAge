@@ -1,5 +1,0 @@
-sceneSetups:
-- path: "Assets/d\xFCzenlenen.unity"
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
